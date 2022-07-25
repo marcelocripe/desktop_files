@@ -4,7 +4,6 @@ Exec=desmume
 Icon=DeSmuME
 MimeType=application/x-nintendo-ds-rom;
 Type=Application
-TryExec=desmume
 Version=1.0
 
 Name=DeSmuME (Gtk)
