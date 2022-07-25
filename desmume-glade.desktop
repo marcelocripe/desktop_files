@@ -1,0 +1,25 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Game;Emulator;
+Exec=desmume
+Icon=DeSmuME
+MimeType=application/x-nintendo-ds-rom;
+Type=Application
+TryExec=desmume
+Version=1.0
+
+Name=DeSmuME (Gtk)
+Name[pt]=Emulador de Jogos do Nintendo DS DeSmuME
+Name[pt_BR]=Emulador de Jogos do Nintendo DS DeSmuME
+
+Comment=Nintento DS emulator
+Comment[pt]=DeSmuME é um emulador de Nintendo DS que executa jogos comerciais e amadores
+Comment[pt_BR]=O DeSmuME é um emulador de Nintendo DS que executa jogos comerciais e amadores
+
+# Translators: Search terms to find this application. Don't translate the semicolons! The list MUST also end with a semicolon!
+Keywords=Nintendo;DS;Emulator;Games;Video Game;
+Keywords[pt]=Nintendo;DS;Emulador;Jogos;Jogo Eletrónico;Videojogos;
+Keywords[pt_BR]=Nintendo;DS;Emulador;Jogos;Jogo Eletrônico;Videogame;
+
+# Dear volunteer translators, please add your language abbreviation and your name here. Please add in alphabetical order.
+# pt: marcelocripe (os textos em idioma pt precisam ser revisados por um nativo do idioma Português de Portugal/Europeu)
+# pt_BR: marcelocripe, Julho de 2022
