@@ -7,18 +7,25 @@ Type=Application
 Version=1.0
 
 Name=DeSmuME (Gtk)
+Name[it]=Emulatore di Giochi Nintendo DS DeSmuME
+Name[it_IT]=Emulatore di Giochi Nintendo DS DeSmuME
 Name[pt]=Emulador de Jogos do Nintendo DS DeSmuME
 Name[pt_BR]=Emulador de Jogos do Nintendo DS DeSmuME
 
 Comment=Nintento DS emulator
+Comment[it]=DeSmuME è un emulatore per Nintendo DS che esegue giochi commerciali e amatoriali
+Comment[it_IT]=DeSmuME è un emulatore per Nintendo DS che esegue giochi commerciali e amatoriali
 Comment[pt]=DeSmuME é um emulador de Nintendo DS que executa jogos comerciais e amadores
 Comment[pt_BR]=O DeSmuME é um emulador de Nintendo DS que executa jogos comerciais e amadores
 
 # Translators: Search terms to find this application. Don't translate the semicolons! The list MUST also end with a semicolon!
 Keywords=Nintendo;DS;Emulator;Games;Video Game;
+Keywords[it]=Nintendo;DS;Emulatore;Giochi;Gioco Elettronico;Videogiochi;
+Keywords[it_IT]=Nintendo;DS;Emulatore;Giochi;Gioco Elettronico;Videogiochi;
 Keywords[pt]=Nintendo;DS;Emulador;Jogos;Jogo Eletrónico;Videojogos;
 Keywords[pt_BR]=Nintendo;DS;Emulador;Jogos;Jogo Eletrônico;Videogame;
 
 # Dear volunteer translators, please add your language abbreviation and your name here. Please add in alphabetical order.
+# it, it_IT: Spartak77, Agosto 2022
 # pt: marcelocripe (os textos em idioma pt precisam ser revisados por um nativo do idioma Português de Portugal/Europeu)
 # pt_BR: marcelocripe, Julho de 2022
